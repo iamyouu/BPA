@@ -1,0 +1,46 @@
++-------------------+
+| Identify Use Case |
+| and Requirements  |
++---------+---------+
+          |
+          v
++---------+---------+
+| Choose Blockchain |
+|      Platform     |
++---------+---------+
+          |
+          v
++---------+---------+
+|  Design Smart     |
+|    Contracts      |
++---------+---------+
+          |
+          v
++---------+---------+
+| Develop Front-End |
+|    Application    |
++---------+---------+
+          |
+          v
++---------+---------+
+| Connect Front-End |
+|   with Smart      |
+|    Contracts      |
++---------+---------+
+          |
+          v
++---------+---------+
+| Test and Debug    |
++---------+---------+
+          |
+          v
++---------+---------+
+|   Deploy and      |
+|    Launch dApp    |
++---------+---------+
+          |
+          v
++---------+---------+
+|  Monitor and      |
+|   Maintain dApp   |
++---------+---------+
